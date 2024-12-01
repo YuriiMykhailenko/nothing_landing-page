@@ -6,7 +6,7 @@ The Nothing Landing Page is a sleek, modern website created to showcase the simp
 
 #### [DEMO LINK](https://YuriiMykhailenko.github.io/nothing_landing-page/)
 
-### Technologies used
+### Technologies used (node v14.21.3)
 - HTML
 - SCSS
 
