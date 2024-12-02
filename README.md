@@ -4,7 +4,8 @@ A minimalist and elegant landing page designed to capture attention and convey i
 ### Project Overview
 The Nothing Landing Page is a sleek, modern website created to showcase the simplicity and elegance of minimalist design. It’s built with a focus on clean aesthetics and user-friendly navigation, making it perfect for personal or business use.
 
-#### [DEMO LINK](https://YuriiMykhailenko.github.io/nothing_landing-page/)
+#### [DEMO LINK](https://YuriiMykhailenko.github.io/nothing_landing-page/)  
+#### [FIGMA](https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6802-139&node-type=canvas&t=Co7bBmcgQcx7mNYI-0)
 
 ### Technologies used (node v14.21.3)
 - HTML
